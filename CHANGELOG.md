@@ -1,4 +1,4 @@
-Leaflet.draw Changelog
+Leaflet.label Changelog
 ======================
 
 ## master
